@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="label" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="ANFA">
+      <data key="d0">ANFA</data>
+    </node>
+    <node id="Onlinekhabar">
+      <data key="d0">Onlinekhabar</data>
+    </node>
+    <node id="you">
+      <data key="d0">you</data>
+    </node>
+    <node id="phone">
+      <data key="d0">phone</data>
+    </node>
+    <node id="protests">
+      <data key="d0">protests</data>
+    </node>
+    <node id="judiciary">
+      <data key="d0">judiciary</data>
+    </node>
+    <node id="Underperforming Economy govt">
+      <data key="d0">Underperforming Economy govt</data>
+    </node>
+    <node id="%">
+      <data key="d0">%</data>
+    </node>
+    <node id="Jorpati route">
+      <data key="d0">Jorpati route</data>
+    </node>
+    <node id="electric service">
+      <data key="d0">electric service</data>
+    </node>
+    <node id="govt">
+      <data key="d0">govt</data>
+    </node>
+    <node id="government">
+      <data key="d0">government</data>
+    </node>
+    <node id="cent">
+      <data key="d0">cent</data>
+    </node>
+    <node id="Officials">
+      <data key="d0">Officials</data>
+    </node>
+    <node id="discussions">
+      <data key="d0">discussions</data>
+    </node>
+    <node id="workers">
+      <data key="d0">workers</data>
+    </node>
+    <node id="2nd phone">
+      <data key="d0">2nd phone</data>
+    </node>
+    <node id="rules">
+      <data key="d0">rules</data>
+    </node>
+    <node id="that">
+      <data key="d0">that</data>
+    </node>
+    <node id="Nepalis">
+      <data key="d0">Nepalis</data>
+    </node>
+    <node id="Dawa Pasang Mountains Sherpa">
+      <data key="d0">Dawa Pasang Mountains Sherpa</data>
+    </node>
+    <node id="record">
+      <data key="d0">record</data>
+    </node>
+    <node id="shutters">
+      <data key="d0">shutters</data>
+    </node>
+    <node id="respite">
+      <data key="d0">respite</data>
+    </node>
+    <node id="startup">
+      <data key="d0">startup</data>
+    </node>
+    <node id="carved gifts">
+      <data key="d0">carved gifts</data>
+    </node>
+    <node id="development">
+      <data key="d0">development</data>
+    </node>
+    <node id="'s">
+      <data key="d0">'s</data>
+    </node>
+    <node id="family">
+      <data key="d0">family</data>
+    </node>
+    <node id="close ties">
+      <data key="d0">close ties</data>
+    </node>
+    <node id="Some">
+      <data key="d0">Some</data>
+    </node>
+    <node id="free season">
+      <data key="d0">free season</data>
+    </node>
+    <node id="monsoon forecast">
+      <data key="d0">monsoon forecast</data>
+    </node>
+    <node id="National Chitwan Park">
+      <data key="d0">National Chitwan Park</data>
+    </node>
+    <node id="natural death">
+      <data key="d0">natural death</data>
+    </node>
+    <node id="Vehicles">
+      <data key="d0">Vehicles</data>
+    </node>
+    <node id="law">
+      <data key="d0">law</data>
+    </node>
+    <node id="invasive affair">
+      <data key="d0">invasive affair</data>
+    </node>
+    <node id="AirPods">
+      <data key="d0">AirPods</data>
+    </node>
+    <node id="workshop">
+      <data key="d0">workshop</data>
+    </node>
+    <node id="brand">
+      <data key="d0">brand</data>
+    </node>
+    <node id="foldable 2nd fare">
+      <data key="d0">foldable 2nd fare</data>
+    </node>
+    <node id="Politics UML">
+      <data key="d0">Politics UML</data>
+    </node>
+    <node id="Rayamajhi">
+      <data key="d0">Rayamajhi</data>
+    </node>
+    <node id="Opinion">
+      <data key="d0">Opinion</data>
+    </node>
+    <node id="South Opinion Asia">
+      <data key="d0">South Opinion Asia</data>
+    </node>
+    <node id="regional networking">
+      <data key="d0">regional networking</data>
+    </node>
+    <node id="Jalasa Sapkota">
+      <data key="d0">Jalasa Sapkota</data>
+    </node>
+    <node id="Bivek Chaudhary">
+      <data key="d0">Bivek Chaudhary</data>
+    </node>
+    <node id="Poudel">
+      <data key="d0">Poudel</data>
+    </node>
+    <node id="them">
+      <data key="d0">them</data>
+    </node>
+    <node id="Sabitra service Bhandari">
+      <data key="d0">Sabitra service Bhandari</data>
+    </node>
+    <node id="League">
+      <data key="d0">League</data>
+    </node>
+    <node id="Nepal">
+      <data key="d0">Nepal</data>
+    </node>
+    <node id="Qualifier">
+      <data key="d0">Qualifier</data>
+    </node>
+    <node id="Lebanon">
+      <data key="d0">Lebanon</data>
+    </node>
+    <node id="tournament">
+      <data key="d0">tournament</data>
+    </node>
+    <node id="High hopes">
+      <data key="d0">High hopes</data>
+    </node>
+    <node id="Nepal cricketers">
+      <data key="d0">Nepal cricketers</data>
+    </node>
+    <node id="themselves">
+      <data key="d0">themselves</data>
+    </node>
+    <node id="prize">
+      <data key="d0">prize</data>
+    </node>
+    <node id="email">
+      <data key="d0">email</data>
+    </node>
+    <node id="© Onlinekhabar.com">
+      <data key="d0">© Onlinekhabar.com</data>
+    </node>
+    <edge source="ANFA" target="Onlinekhabar">
+      <data key="d1">pays</data>
+    </edge>
+    <edge source="ANFA" target="them">
+      <data key="d1">pays</data>
+    </edge>
+    <edge source="you" target="phone">
+      <data key="d1">got</data>
+    </edge>
+    <edge source="phone" target="invasive affair">
+      <data key="d1">’s</data>
+    </edge>
+    <edge source="protests" target="judiciary">
+      <data key="d1">free</data>
+    </edge>
+    <edge source="Underperforming Economy govt" target="%">
+      <data key="d1">spends</data>
+    </edge>
+    <edge source="Jorpati route" target="electric service">
+      <data key="d1">expanding</data>
+    </edge>
+    <edge source="govt" target="%">
+      <data key="d1">spends</data>
+    </edge>
+    <edge source="government" target="cent">
+      <data key="d1">spent</data>
+    </edge>
+    <edge source="government" target="rules">
+      <data key="d1">reintroduced</data>
+    </edge>
+    <edge source="government" target="prize">
+      <data key="d1">announced</data>
+    </edge>
+    <edge source="Officials" target="discussions">
+      <data key="d1">begin</data>
+    </edge>
+    <edge source="workers" target="2nd phone">
+      <data key="d1">bring</data>
+    </edge>
+    <edge source="that" target="Nepalis">
+      <data key="d1">require</data>
+    </edge>
+    <edge source="that" target="development">
+      <data key="d1">shaped</data>
+    </edge>
+    <edge source="Dawa Pasang Mountains Sherpa" target="record">
+      <data key="d1">equals</data>
+    </edge>
+    <edge source="shutters" target="respite">
+      <data key="d1">show</data>
+    </edge>
+    <edge source="startup" target="carved gifts">
+      <data key="d1">offers</data>
+    </edge>
+    <edge source="'s" target="development">
+      <data key="d1">review</data>
+    </edge>
+    <edge source="family" target="close ties">
+      <data key="d1">has</data>
+    </edge>
+    <edge source="Some" target="free season">
+      <data key="d1">mean</data>
+    </edge>
+    <edge source="monsoon forecast" target="free season">
+      <data key="d1">mean</data>
+    </edge>
+    <edge source="National Chitwan Park" target="natural death">
+      <data key="d1">claims</data>
+    </edge>
+    <edge source="Vehicles" target="law">
+      <data key="d1">get</data>
+    </edge>
+    <edge source="AirPods" target="workshop">
+      <data key="d1">run</data>
+    </edge>
+    <edge source="brand" target="foldable 2nd fare">
+      <data key="d1">sell</data>
+    </edge>
+    <edge source="Politics UML" target="Rayamajhi">
+      <data key="d1">suspends</data>
+    </edge>
+    <edge source="Opinion" target="judiciary">
+      <data key="d1">free</data>
+    </edge>
+    <edge source="South Opinion Asia" target="regional networking">
+      <data key="d1">needs</data>
+    </edge>
+    <edge source="Jalasa Sapkota" target="judiciary">
+      <data key="d1">free</data>
+    </edge>
+    <edge source="Bivek Chaudhary" target="Poudel">
+      <data key="d1">give</data>
+    </edge>
+    <edge source="Sabitra service Bhandari" target="League">
+      <data key="d1">lighting</data>
+    </edge>
+    <edge source="Nepal" target="Qualifier">
+      <data key="d1">hosting</data>
+    </edge>
+    <edge source="Lebanon" target="tournament">
+      <data key="d1">joins</data>
+    </edge>
+    <edge source="Lebanon" target="High hopes">
+      <data key="d1">join</data>
+    </edge>
+    <edge source="Nepal cricketers" target="themselves">
+      <data key="d1">preparing</data>
+    </edge>
+    <edge source="email" target="© Onlinekhabar.com">
+      <data key="d1">protected</data>
+    </edge>
+  </graph>
+</graphml>
